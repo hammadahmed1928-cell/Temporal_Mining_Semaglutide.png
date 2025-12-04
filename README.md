@@ -9,7 +9,8 @@ Traditional clinical trials (Phase III) are static and limited in sample size. T
 * **Methodology:** Time-series extraction of reporting velocity.
 
 ### 📊 Results (Visualized)
-*(Upload your graph image here. Drag and drop the screenshot into this box and GitHub will generate a link automatically)*
+![Analysis Graph](Temporal_Mining_Semaglutide.png.png)
+
 
 ### 🛠️ Technical Stack
 * **Language:** Python 3.9
